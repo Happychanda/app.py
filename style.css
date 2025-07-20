@@ -1,0 +1,5 @@
+/* This file is not required by Streamlit, but added for compatibility with earlier structure */
+body {
+  background-color: #000;
+  color: #fff;
+}
